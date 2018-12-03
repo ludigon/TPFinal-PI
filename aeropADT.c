@@ -9,7 +9,7 @@ struct aerop{
 	int movs;
 	Taerop tail;
 };
-/* 
+/* En el censo se guardadfaafafafafafafafafafafaf
  * 
  */
 struct censoADT
